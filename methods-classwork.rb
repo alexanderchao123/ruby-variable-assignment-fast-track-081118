@@ -8,7 +8,7 @@ some_stuff_array = [1, 2, "fish"]
 state = "New York"
 
 # declaring a method in ruby
-# def name_funcation(arguements)
+# def name_funcation(arguments)
 #   # body of function
 #   # what are we going to do here
 # end
