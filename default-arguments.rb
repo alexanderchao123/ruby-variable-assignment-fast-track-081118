@@ -21,3 +21,5 @@ age = 28
 def compute_months(name, hometown, age)
   puts "I'm #{name}, I'm from #{hometown}, and I've been alive for #{28 * 12} months!"
 end
+
+compute_months(name, hometown, age)
